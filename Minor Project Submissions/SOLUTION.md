@@ -1,2 +1,7 @@
 # SOLUTION
 
+PARUL_SINGH_161_LOAN DEFAULT_DATASET
+
+COLAB LINK: https://colab.research.google.com/drive/1wkl16yCHK63rnc5rTUkSZQKyeUwmd9wC?usp=sharing
+
+ALL THE ANSWERS ARE WRITTEN IN THE COLAB NOTEBOOK
