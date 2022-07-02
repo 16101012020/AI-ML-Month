@@ -1,6 +1,6 @@
 # SOLUTION
 
-PARUL_SINGH_161_LOAN DEFAULT_DATASET
+PARUL_SINGH_161_LOAN DEFAULT_PREDICTION
 
 COLAB LINK: https://colab.research.google.com/drive/1wkl16yCHK63rnc5rTUkSZQKyeUwmd9wC?usp=sharing
 
